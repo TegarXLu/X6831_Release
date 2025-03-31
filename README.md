@@ -1,1 +1,1 @@
-# X6831_Release
+#Custom Recovery X6831_Release
